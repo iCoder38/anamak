@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962375412641",
+    "project_id": "my-new-anamak",
+    "storage_bucket": "my-new-anamak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962375412641:android:65b4934d8d613c63e9b9e0",
+        "android_client_info": {
+          "package_name": "com.lmoc.prod.anamak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962375412641-ppikspl66tum92lkir2159vga1gvuuv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI42uy2Ytc-cwA3aNQA2UQYsjOZ859j10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962375412641-ppikspl66tum92lkir2159vga1gvuuv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
